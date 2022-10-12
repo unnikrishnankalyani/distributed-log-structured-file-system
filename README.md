@@ -1,6 +1,3 @@
-Distributed FileSystem
-	- Adil Ahmed, Kalyani Unnikrishnan
-
 This project implements a distributed filesystem that can be used by multiple clients. The implementation is split into two parts:
 	1. A shared library (libmfs.so) that an application can use to interface with the server
 	2. The filesystem implementation on the server
